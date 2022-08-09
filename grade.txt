@@ -1,0 +1,10 @@
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println(totalgrade(50,44));
+		
+	}
+	public static int totalgrade(int firstterm, int secondterm){
+		return firstterm + secondterm;
+}
+}
